@@ -1,10 +1,7 @@
 # Django
 ## Installation
 
-# 1. Clone the repository:
-
-bash:  
- git clone https://github.com/imswaggyboy/vendor-management-system-django.git
+# 1. Clone the repository
 
 # 2.Create a virtual environment:
 
